@@ -1,0 +1,6 @@
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe.config
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.pdb
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.csprojResolveAssemblyReference.cache
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb
