@@ -1,0 +1,6 @@
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\StaticDmeo\bin\Debug\StaticDmeo.exe.config
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\StaticDmeo\bin\Debug\StaticDmeo.exe
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\StaticDmeo\bin\Debug\StaticDmeo.pdb
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\StaticDmeo\obj\Debug\StaticDmeo.csprojResolveAssemblyReference.cache
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\StaticDmeo\obj\Debug\StaticDmeo.exe
+c:\users\parupatk\documents\visual studio 2015\Projects\SingletonDemo\StaticDmeo\obj\Debug\StaticDmeo.pdb
