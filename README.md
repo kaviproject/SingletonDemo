@@ -1,7 +1,7 @@
-# SingletonDemo
+# SingletonDemo<br/>
 
-Singleton is object creational pattern with one instance og class.
-Singletom object is stored on heap.
+Singleton is object creational pattern with one instance og class.<br/>
+Singletom object is stored on heap.<br/>
 Single object can be cloned.
 
 <br>
